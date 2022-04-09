@@ -2,7 +2,7 @@
 
 - 🚩 Atualmente estou Morando na Bahia
 - 🌱 Estou estudando e desenvolvendo muito sobre C# e .NET em geral
-- <p>😎 Conhe&ccedil;a a&nbsp;<a href="https://miguelsoft.com.br" target="_blank">MiguelSoft</a></p>
+- 😎 Conhe&ccedil;a a&nbsp;<a href="https://miguelsoft.com.br" target="_blank">MiguelSoft</a>
 - ⚡ Gosto de Filmes, Séries, Jogos e Musicas 
 - 🙋‍♂️ Pronomes: Ele/Dele
 
