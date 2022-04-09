@@ -5,6 +5,7 @@
 - 😎 Conhe&ccedil;a a&nbsp;<a href="https://miguelsoft.com.br" target="_blank">MiguelSoft</a>
 - ⚡ Gosto de Filmes, Séries, Jogos e Musicas 
 - 🙋‍♂️ Pronomes: Ele/Dele
+- 💻 Meu site <a href="https://migueloliveira.xyz" target="_blank">aqui</a>
 
  <br>
  <div align="center">
