@@ -6,7 +6,7 @@
 - ⚡ Gosto de Filmes, Séries, Jogos e Musicas 
 - 🙋‍♂️ Pronomes: Ele/Dele
 - 💻 Meu site <a href="https://migueloliveira.xyz" target="_blank">aqui</a>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eimigueloliveir" alt="oolunar" /> </p>
  <br>
  <div align="center">
   <a href="https://github.com/eimigueloliveir">
